@@ -1,5 +1,5 @@
 # drupal-performance-resources
-A list of Drupal performance resource. Pull requests welcome!
+A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
 
