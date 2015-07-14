@@ -1,11 +1,11 @@
 # drupal-performance-resources
 A list of Drupal performance resources. Pull requests welcome!
 
-## Basic
+## Start Here
 
 [Optimizing Drupal to load faster (Server, MySQL, caching, theming, HTML)](https://www.drupal.org/node/1722250)
 
-## Intermediate
+## Then Try
 
 [Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
 
