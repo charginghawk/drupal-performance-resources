@@ -31,6 +31,8 @@ I don't know if I should be mentioning this, but on the free preview above, it l
 
 [Drupal.org's "performance" taxonomy page](https://www.drupal.org/taxonomy/term/32238)
 
+[Acquia's Drupal Website Performance series](https://www.acquia.com/blog/drupal-website-performance)
+
 ## Modules
 
 [Varnish](https://drupal.org/project/varnish)
