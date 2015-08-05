@@ -5,9 +5,11 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Optimizing Drupal to load faster (Server, MySQL, caching, theming, HTML)](https://www.drupal.org/node/1722250)
 
-## Then Try
+## Checklists
 
-[Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
+[Colan Schwartz's Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
+
+[Neerav Mehta's Drupal Performance Optimization Checklist](http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist)
 
 ## drupal.stackexchange.com
 
