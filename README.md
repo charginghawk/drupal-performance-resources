@@ -37,6 +37,10 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
 
+## Presentations
+
+[4x High Performance for Drupal - Step by Step](https://events.drupal.org/losangeles2015/sessions/4x-high-performance-drupal-step-step)
+
 ## Feeds
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
