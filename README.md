@@ -9,8 +9,6 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
 
-[How do you improve Drupal performance?](http://drupal.stackexchange.com/questions/24180/how-do-you-improve-drupal-performance)
-
 ## Advanced
 
 [O'Reilly's "High Performance Drupal: Fast and Scalable Designs"](http://shop.oreilly.com/product/0636920012269.do)
@@ -21,17 +19,37 @@ A list of Drupal performance resources. Pull requests welcome!
 I don't know if I should be mentioning this, but on the free preview above, it looks like you can just change the chapter numbers in the URL (i.e. ch02 through ch21) to access the rest of the book.
 -->
 
+## Tools
+
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
 
 [Which are the load testing tools that can be easy to use for a developer?](http://drupal.stackexchange.com/questions/31383/which-are-the-load-testing-tools-that-can-be-easy-to-use-for-a-developer)
 
-## Misc
+[How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
+
+## drupal.stackexchange.com
+
+[How do you improve Drupal performance?](http://drupal.stackexchange.com/questions/24180/how-do-you-improve-drupal-performance)
+
+[Why is Drupal 7 so slow?](http://drupal.stackexchange.com/questions/724/why-is-drupal-7-so-slow)
+
+[Do non-enabled Drupal modules affect performance?](http://drupal.stackexchange.com/questions/22/do-non-enabled-drupal-modules-affect-performance)
+
+[Given that db_select is much slower than db_query, why would I want to use it?](http://drupal.stackexchange.com/questions/1200/given-that-db-select-is-much-slower-than-db-query-why-would-i-want-to-use-it)
+
+[Real world experience in scaling and tuning performance](http://drupal.stackexchange.com/questions/183/real-world-experience-in-scaling-and-tuning-performance)
+
+## Feeds
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
 
 [Drupal.org's "performance" taxonomy page](https://www.drupal.org/taxonomy/term/32238)
 
 [Acquia's Drupal Website Performance series](https://www.acquia.com/blog/drupal-website-performance)
+
+[Drupal Answer's performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
+
+[Drupal Answer's debugging tag](http://drupal.stackexchange.com/questions/tagged/debugging)
 
 ## Modules
 
