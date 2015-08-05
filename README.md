@@ -27,10 +27,6 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [O'Reilly's "High Performance Drupal: Fast and Scalable Designs" - free preview of 1st chapter](http://chimera.labs.oreilly.com/books/1230000000845/ch01.html)
 
-<!--
-I don't know if I should be mentioning this, but on the free preview above, it looks like you can just change the chapter numbers in the URL (i.e. ch02 through ch21) to access the rest of the book.
--->
-
 ## Tools
 
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
