@@ -49,8 +49,6 @@ I don't know if I should be mentioning this, but on the free preview above, it l
 
 [Drupal Answer's performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
 
-[Drupal Answer's debugging tag](http://drupal.stackexchange.com/questions/tagged/debugging)
-
 ## Modules
 
 [Varnish](https://drupal.org/project/varnish)
