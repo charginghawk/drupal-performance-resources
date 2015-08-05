@@ -41,6 +41,9 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [4x High Performance for Drupal - Step by Step](https://events.drupal.org/losangeles2015/sessions/4x-high-performance-drupal-step-step)
 
+[DIY Drupal 7 Performance
+](https://docs.google.com/presentation/d/1AgnurTWsWdMAFjfFmSU7mk2zfJu8jG_KmVdZ7-o6Pok/edit?usp=sharing)
+
 ## Feeds
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
