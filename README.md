@@ -1,4 +1,4 @@
-# Badass List of Drupal Performance Resources
+# Drupal Performance Resources
 A list of Drupal performance resources. Pull requests welcome!
 
 ## Start Here
