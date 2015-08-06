@@ -23,6 +23,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Given that db_select is much slower than db_query, why would I want to use it?](http://drupal.stackexchange.com/questions/1200/given-that-db-select-is-much-slower-than-db-query-why-would-i-want-to-use-it)
 
+[Nginx vs Apache - Are there any actual usage comparisons and statistcs out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
+
 ## Advanced
 
 [O'Reilly's "High Performance Drupal: Fast and Scalable Designs"](http://shop.oreilly.com/product/0636920012269.do)
