@@ -72,7 +72,7 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
 
-[APC - Alternative PHP Cache](https://www.drupal.org/project/apc) (not to be confused with [the popular PHP accelerator](https://en.wikipedia.org/wiki/List_of_PHP_accelerators#Alternative_PHP_Cache_.28APC.29))
+[APC - Alternative PHP Cache](https://www.drupal.org/project/apc)
 
 [Book Cache](https://www.drupal.org/project/book_cache)
 
