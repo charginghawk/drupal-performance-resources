@@ -11,6 +11,14 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Neerav Mehta's Drupal Performance Optimization Checklist](http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist)
 
+## Advanced
+
+[O'Reilly's "High Performance Drupal: Fast and Scalable Designs"](http://shop.oreilly.com/product/0636920012269.do)
+
+[O'Reilly's "High Performance Drupal: Fast and Scalable Designs" - free preview of 1st chapter](http://chimera.labs.oreilly.com/books/1230000000845/ch01.html)
+
+[Drupal 7 performance related patches & replacements for core functionally](https://groups.drupal.org/node/210683)
+
 ## drupal.stackexchange.com
 
 [How do you improve Drupal performance?](http://drupal.stackexchange.com/questions/24180/how-do-you-improve-drupal-performance)
@@ -24,14 +32,6 @@ A list of Drupal performance resources. Pull requests welcome!
 [Given that db_select is much slower than db_query, why would I want to use it?](http://drupal.stackexchange.com/questions/1200/given-that-db-select-is-much-slower-than-db-query-why-would-i-want-to-use-it)
 
 [Nginx vs Apache - Are there any actual usage comparisons and statistcs out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
-
-## Advanced
-
-[O'Reilly's "High Performance Drupal: Fast and Scalable Designs"](http://shop.oreilly.com/product/0636920012269.do)
-
-[O'Reilly's "High Performance Drupal: Fast and Scalable Designs" - free preview of 1st chapter](http://chimera.labs.oreilly.com/books/1230000000845/ch01.html)
-
-[Drupal 7 performance related patches & replacements for core functionally](https://groups.drupal.org/node/210683)
 
 ## Tools
 
