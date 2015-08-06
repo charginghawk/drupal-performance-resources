@@ -46,6 +46,12 @@ A list of Drupal performance resources. Pull requests welcome!
 [DIY Drupal 7 Performance
 ](https://docs.google.com/presentation/d/1AgnurTWsWdMAFjfFmSU7mk2zfJu8jG_KmVdZ7-o6Pok/edit?usp=sharing)
 
+## Non-Drupal Performance
+
+[Fixing Performance in the Web Stack](http://ponyfoo.com/articles/fixing-web-performance)
+
+[Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
+
 ## Feeds
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
