@@ -31,6 +31,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [O'Reilly's "High Performance Drupal: Fast and Scalable Designs" - free preview of 1st chapter](http://chimera.labs.oreilly.com/books/1230000000845/ch01.html)
 
+[Drupal 7 performance related patches & replacements for core functionally](https://groups.drupal.org/node/210683)
+
 ## Tools
 
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
@@ -69,3 +71,9 @@ A list of Drupal performance resources. Pull requests welcome!
 [Boost](https://drupal.org/project/boost)
 
 [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
+
+[APC - Alternative PHP Cache](https://www.drupal.org/project/apc) (not to be confused with [the popular PHP accelerator](https://en.wikipedia.org/wiki/List_of_PHP_accelerators#Alternative_PHP_Cache_.28APC.29))
+
+[Book Cache](https://www.drupal.org/project/book_cache)
+
+[Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc)
