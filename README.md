@@ -64,6 +64,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal Answer's performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
 
+[Reddit's r/drupal performance posts](https://www.reddit.com/r/drupal/search?q=performance&restrict_sr=on)
+
 ## Modules
 
 [Varnish](https://drupal.org/project/varnish)
