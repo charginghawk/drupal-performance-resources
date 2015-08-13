@@ -19,6 +19,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal 7 performance related patches & replacements for core functionally](https://groups.drupal.org/node/210683)
 
+[Use Grunt and AdvAgg to inline critical CSS on a Drupal 7 theme](http://fourword.fourkitchens.com/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme)
+
 ## drupal.stackexchange.com
 
 [How do you improve Drupal performance?](http://drupal.stackexchange.com/questions/24180/how-do-you-improve-drupal-performance)
