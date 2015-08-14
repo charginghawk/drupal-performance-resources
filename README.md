@@ -70,6 +70,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 ## Modules
 
+[Caching: Modules that make Drupal scale](https://groups.drupal.org/node/21897)
+
 [Varnish](https://drupal.org/project/varnish)
 
 [Boost](https://drupal.org/project/boost)
