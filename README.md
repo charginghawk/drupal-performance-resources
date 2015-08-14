@@ -1,4 +1,5 @@
 # Drupal Performance Resources
+
 A list of Drupal performance resources. Pull requests welcome!
 
 ## Start Here
@@ -39,9 +40,16 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
 
+[Drupal Site Audit](https://www.drupal.org/project/site_audit) - Drupal static analysis platform that generates reports with actionable best practice recommendations.
+
 [Which are the load testing tools that can be easy to use for a developer?](http://drupal.stackexchange.com/questions/31383/which-are-the-load-testing-tools-that-can-be-easy-to-use-for-a-developer)
 
 [How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
+
+### Continuous Profiling
+
+* [AppDynamics](https://www.appdynamics.com/)
+* [New Relic](https://newrelic.com/)
 
 ## Presentations
 
@@ -49,6 +57,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [DIY Drupal 7 Performance
 ](https://docs.google.com/presentation/d/1AgnurTWsWdMAFjfFmSU7mk2zfJu8jG_KmVdZ7-o6Pok/edit?usp=sharing)
+
+[Auditing Drupal sites for performance, content and optimal configuration](http://2014.pnwdrupalsummit.org/2014/sessions/auditing-drupal-sites-performance-content-and-optimal-configuration)
 
 ## Non-Drupal Performance
 
@@ -68,18 +78,37 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Reddit's r/drupal performance posts](https://www.reddit.com/r/drupal/search?q=performance&restrict_sr=on)
 
+## Distributions
+
+[Pressflow](http://www.pressflow.org/) - https://github.com/pressflow/7
+
 ## Modules
+
+### CDN integration
+
+* [CDN](https://www.drupal.org/project/cdn)
+* [Akamai](https://www.drupal.org/project/akamai)
+* [Fastly](https://www.drupal.org/project/fastly)
+
+### Key-value stores
+
+* [Redis](https://www.drupal.org/project/redis)
+* [Memcache API and Integration](https://www.drupal.org/project/memcache)
+* [APC - Alternative PHP Cache](https://www.drupal.org/project/apc)
+
+### Front end caching
+
+* [Varnish](https://drupal.org/project/varnish)
+* [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
+
+### Back end caching
 
 [Caching: Modules that make Drupal scale](https://groups.drupal.org/node/21897)
 
-[Varnish](https://drupal.org/project/varnish)
+* [Boost](https://drupal.org/project/boost)
+* [Book Cache](https://www.drupal.org/project/book_cache)
+* [Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc)
 
-[Boost](https://drupal.org/project/boost)
+### Other optimizations
 
-[Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
-
-[APC - Alternative PHP Cache](https://www.drupal.org/project/apc)
-
-[Book Cache](https://www.drupal.org/project/book_cache)
-
-[Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc)
+* [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl)
