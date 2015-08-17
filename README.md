@@ -8,6 +8,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Managing site performance](https://www.drupal.org/node/627252)
 
+[Caching: Modules that make Drupal scale](https://groups.drupal.org/node/21897)
+
 ## Checklists
 
 [Colan Schwartz's Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
@@ -104,8 +106,6 @@ A list of Drupal performance resources. Pull requests welcome!
 * [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
 
 ### Back end caching
-
-[Caching: Modules that make Drupal scale](https://groups.drupal.org/node/21897)
 
 * [Boost](https://drupal.org/project/boost)
 * [Book Cache](https://www.drupal.org/project/book_cache)
