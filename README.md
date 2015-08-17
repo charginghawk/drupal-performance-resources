@@ -2,9 +2,11 @@
 
 A list of Drupal performance resources. Pull requests welcome!
 
-## Start Here
+## Drupal.org (Start Here)
 
 [Optimizing Drupal to load faster (Server, MySQL, caching, theming, HTML)](https://www.drupal.org/node/1722250)
+
+[Managing site performance](https://www.drupal.org/node/627252)
 
 ## Checklists
 
