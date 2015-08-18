@@ -120,3 +120,4 @@ A list of Drupal performance resources. Pull requests welcome!
 ### Other optimizations
 
 * [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl) - [README (7.x-1.x)](http://cgit.drupalcode.org/httprl/tree/README.txt?h=7.x-1.x)
+* [Minify HTML](https://www.drupal.org/project/minihtml)
