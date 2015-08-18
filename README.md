@@ -40,6 +40,18 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Nginx vs Apache - Are there any actual usage comparisons and statistcs out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
 
+## Non-Drupal Performance
+
+[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+
+[The Vanilla Web Diet](http://www.smashingmagazine.com/2012/11/the-vanilla-web-diet/)
+
+[Fixing Performance in the Web Stack](http://ponyfoo.com/articles/fixing-web-performance)
+
+[Think Quarterly: The Speed Issue](https://www.thinkwithgoogle.com/collections/the-speed-issue.html)
+
+[Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
+
 ## Tools
 
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
@@ -63,12 +75,6 @@ A list of Drupal performance resources. Pull requests welcome!
 ](https://docs.google.com/presentation/d/1AgnurTWsWdMAFjfFmSU7mk2zfJu8jG_KmVdZ7-o6Pok/edit?usp=sharing)
 
 [Auditing Drupal sites for performance, content and optimal configuration](http://2014.pnwdrupalsummit.org/2014/sessions/auditing-drupal-sites-performance-content-and-optimal-configuration)
-
-## Non-Drupal Performance
-
-[Fixing Performance in the Web Stack](http://ponyfoo.com/articles/fixing-web-performance)
-
-[Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
 
 ## Feeds
 
