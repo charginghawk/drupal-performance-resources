@@ -90,27 +90,27 @@ A list of Drupal performance resources. Pull requests welcome!
 
 ### CDN integration
 
-* [CDN](https://www.drupal.org/project/cdn)
-* [Akamai](https://www.drupal.org/project/akamai)
-* [Fastly](https://www.drupal.org/project/fastly)
+* [CDN](https://www.drupal.org/project/cdn) - [README (7.x-2.x)](http://cgit.drupalcode.org/cdn/tree/README.txt)
+* [Akamai](https://www.drupal.org/project/akamai) - [README (7.x-2.x)](http://cgit.drupalcode.org/akamai/tree/README)
+* [Fastly](https://www.drupal.org/project/fastly) - [README (7.x-2.x)](http://cgit.drupalcode.org/fastly/tree/README.txt?h=7.x-2.x)
 
 ### Key-value stores
 
-* [Redis](https://www.drupal.org/project/redis)
-* [Memcache API and Integration](https://www.drupal.org/project/memcache)
-* [APC - Alternative PHP Cache](https://www.drupal.org/project/apc)
+* [Redis](https://www.drupal.org/project/redis) - [README (7.x-3.x)](http://cgit.drupalcode.org/redis/tree/README.txt)
+* [Memcache API and Integration](https://www.drupal.org/project/memcache) - [README (7.x-1.x)](http://cgit.drupalcode.org/memcache/tree/README.txt)
+* [APC - Alternative PHP Cache](https://www.drupal.org/project/apc) - [README (7.x-1.x)](http://cgit.drupalcode.org/apc/tree/README.txt?h=7.x-1.x)
 
 ### Front end caching
 
-* [Varnish](https://drupal.org/project/varnish)
-* [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg)
+* [Varnish](https://drupal.org/project/varnish) - [README (7.x-1.x)](http://cgit.drupalcode.org/varnish/tree/README.txt)
+* [Advanced CSS/JS Aggregation](https://www.drupal.org/project/advagg) - [README (7.x-2.x)](http://cgit.drupalcode.org/advagg/tree/README.txt)
 
 ### Back end caching
 
-* [Boost](https://drupal.org/project/boost)
-* [Book Cache](https://www.drupal.org/project/book_cache)
-* [Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc)
+* [Boost](https://drupal.org/project/boost) - [README (7.x-1.x)](http://cgit.drupalcode.org/boost/tree/README.txt)
+* [Book Cache](https://www.drupal.org/project/book_cache) - [README (7.x-1.x)](http://cgit.drupalcode.org/book_cache/tree/README.txt)
+* [Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc) - [README (7.x-1.x)](http://cgit.drupalcode.org/apdqc/tree/README.txt)
 
 ### Other optimizations
 
-* [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl)
+* [HTTP Parallel Request & Threading Library](https://www.drupal.org/project/httprl) - [README (7.x-1.x)](http://cgit.drupalcode.org/httprl/tree/README.txt?h=7.x-1.x)
