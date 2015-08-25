@@ -26,6 +26,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Use Grunt and AdvAgg to inline critical CSS on a Drupal 7 theme](http://fourword.fourkitchens.com/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme)
 
+[APCu and OpCache optimization for a large Drupal site](http://dropbucket.org/node/6791)
+
 ## drupal.stackexchange.com
 
 [How do you improve Drupal performance?](http://drupal.stackexchange.com/questions/24180/how-do-you-improve-drupal-performance)
@@ -80,13 +82,15 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal.org's high performance group](https://groups.drupal.org/high-performance)
 
-[Drupal.org's "performance" taxonomy page](https://www.drupal.org/taxonomy/term/32238)
+[Drupal.org's performance taxonomy page](https://www.drupal.org/taxonomy/term/32238)
 
 [Acquia's Drupal Website Performance series](https://www.acquia.com/blog/drupal-website-performance)
 
 [Drupal Answer's performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
 
 [Reddit's r/drupal performance posts](https://www.reddit.com/r/drupal/search?q=performance&restrict_sr=on)
+
+[Dropbucket's performance/scalability snippets](http://dropbucket.org/snippets/performance-and-scalability)
 
 ## Distributions
 
