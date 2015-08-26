@@ -80,17 +80,19 @@ A list of Drupal performance resources. Pull requests welcome!
 
 ## Feeds
 
-[Drupal.org's high performance group](https://groups.drupal.org/high-performance)
+[Drupal.org, high performance group](https://groups.drupal.org/high-performance)
 
-[Drupal.org's performance taxonomy page](https://www.drupal.org/taxonomy/term/32238)
+[Drupal.org, performance taxonomy page](https://www.drupal.org/taxonomy/term/32238)
 
-[Acquia's Drupal Website Performance series](https://www.acquia.com/blog/drupal-website-performance)
+[Acquia, Drupal Website Performance series](https://www.acquia.com/blog/drupal-website-performance)
 
-[Drupal Answer's performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
+[Drupal Answers, performance tag](http://drupal.stackexchange.com/questions/tagged/performance)
 
-[Reddit's r/drupal performance posts](https://www.reddit.com/r/drupal/search?q=performance&restrict_sr=on)
+[Reddit, r/drupal, performance posts](https://www.reddit.com/r/drupal/search?q=performance&restrict_sr=on)
 
-[Dropbucket's performance/scalability snippets](http://dropbucket.org/snippets/performance-and-scalability)
+[Dropbucket, performance/scalability snippets](http://dropbucket.org/snippets/performance-and-scalability)
+
+[Drupal Planet, performance tag (via drupalsun.com)](http://drupalsun.com/find?f[0]=field_rss_tags%3A79&page=1&infinite=1)
 
 ## Distributions
 
