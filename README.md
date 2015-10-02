@@ -2,6 +2,8 @@
 
 A list of Drupal performance resources. Pull requests welcome!
 
+---
+
 ## Drupal.org (Start Here)
 
 [Optimizing Drupal to load faster (Server, MySQL, caching, theming, HTML)](https://www.drupal.org/node/1722250)
@@ -10,11 +12,15 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Caching: Modules that make Drupal scale](https://groups.drupal.org/node/21897)
 
+---
+
 ## Checklists
 
 [Colan Schwartz's Drupal 7 Performance Optimization Options and Checklist](http://colans.net/blog/drupal-7-performance-optimization-options-and-checklist)
 
 [Neerav Mehta's Drupal Performance Optimization Checklist](http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist)
+
+---
 
 ## Advanced
 
@@ -27,6 +33,8 @@ A list of Drupal performance resources. Pull requests welcome!
 [Use Grunt and AdvAgg to inline critical CSS on a Drupal 7 theme](http://fourword.fourkitchens.com/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme)
 
 [APCu and OpCache optimization for a large Drupal site](http://dropbucket.org/node/6791)
+
+---
 
 ## drupal.stackexchange.com
 
@@ -42,7 +50,32 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Nginx vs Apache - Are there any actual usage comparisons and statistcs out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
 
-## Non-Drupal Performance
+---
+
+## General Performance Tools
+
+### FOSS
+* [Apache JMeter](http://jmeter.apache.org/)
+* [Xdebug](http://xdebug.org/)
+* [XHProf](https://github.com/phacility/xhprof)
+
+### Continuous Profiling Services
+* [AppDynamics](https://www.appdynamics.com/)
+* [New Relic](https://newrelic.com/)
+* [BlazeMeter](https://blazemeter.com/)
+* [Blitz](https://www.blitz.io/)
+
+### Discussions & Comparisons
+
+[Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
+
+[Which are the load testing tools that can be easy to use for a developer?](http://drupal.stackexchange.com/questions/31383/which-are-the-load-testing-tools-that-can-be-easy-to-use-for-a-developer)
+
+[How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
+
+---
+
+## General Performance Theory
 
 [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
 
@@ -54,20 +87,9 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
 
-## Tools
+[Introducing RAIL: A User-Centric Model For Performance](http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 
-[Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
-
-[Drupal Site Audit](https://www.drupal.org/project/site_audit) - Drupal static analysis platform that generates reports with actionable best practice recommendations.
-
-[Which are the load testing tools that can be easy to use for a developer?](http://drupal.stackexchange.com/questions/31383/which-are-the-load-testing-tools-that-can-be-easy-to-use-for-a-developer)
-
-[How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
-
-### Continuous Profiling
-
-* [AppDynamics](https://www.appdynamics.com/)
-* [New Relic](https://newrelic.com/)
+---
 
 ## Presentations
 
@@ -77,6 +99,16 @@ A list of Drupal performance resources. Pull requests welcome!
 ](https://docs.google.com/presentation/d/1AgnurTWsWdMAFjfFmSU7mk2zfJu8jG_KmVdZ7-o6Pok/edit?usp=sharing)
 
 [Auditing Drupal sites for performance, content and optimal configuration](http://2014.pnwdrupalsummit.org/2014/sessions/auditing-drupal-sites-performance-content-and-optimal-configuration)
+
+[Creating a Culture of Performance](https://events.drupal.org/losangeles2015/sessions/creating-culture-performance)
+
+[Solving Drupal Performance and Scalability Issues](https://events.drupal.org/barcelona2015/sessions/solving-drupal-performance-and-scalability-issues)
+
+[Better performance with Apache/Nginx](https://events.drupal.org/losangeles2015/sessions/better-performance-apachenginx)
+
+[Making Drupal fly - The fastest Drupal ever is near!](https://events.drupal.org/losangeles2015/sessions/making-drupal-fly-fastest-drupal-ever-near)
+
+---
 
 ## Feeds
 
@@ -94,9 +126,13 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Drupal Planet, performance tag (via drupalsun.com)](http://drupalsun.com/find?f[0]=field_rss_tags%3A79&page=1&infinite=1)
 
+---
+
 ## Distributions
 
-[Pressflow](http://www.pressflow.org/) - https://github.com/pressflow/7
+* [Pressflow](http://www.pressflow.org/) - https://github.com/pressflow/7
+
+---
 
 ## Modules
 
@@ -122,6 +158,10 @@ A list of Drupal performance resources. Pull requests welcome!
 * [Boost](https://drupal.org/project/boost) - [README (7.x-1.x)](http://cgit.drupalcode.org/boost/tree/README.txt)
 * [Book Cache](https://www.drupal.org/project/book_cache) - [README (7.x-1.x)](http://cgit.drupalcode.org/book_cache/tree/README.txt)
 * [Asynchronous Prefetch Database Query Cache](https://www.drupal.org/project/apdqc) - [README (7.x-1.x)](http://cgit.drupalcode.org/apdqc/tree/README.txt)
+
+### Auditing
+
+* [Drupal Site Audit](https://www.drupal.org/project/site_audit) - [README (7.x-1.x)](http://cgit.drupalcode.org/site_audit/tree/README.md)
 
 ### Other optimizations
 
