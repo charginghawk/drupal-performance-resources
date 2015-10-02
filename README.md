@@ -42,8 +42,6 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Real world experience in scaling and tuning performance](http://drupal.stackexchange.com/questions/183/real-world-experience-in-scaling-and-tuning-performance)
 
-[Why is Drupal 7 so slow?](http://drupal.stackexchange.com/questions/724/why-is-drupal-7-so-slow)
-
 [Do non-enabled Drupal modules affect performance?](http://drupal.stackexchange.com/questions/22/do-non-enabled-drupal-modules-affect-performance)
 
 [Given that db_select is much slower than db_query, why would I want to use it?](http://drupal.stackexchange.com/questions/1200/given-that-db-select-is-much-slower-than-db-query-why-would-i-want-to-use-it)
@@ -55,11 +53,13 @@ A list of Drupal performance resources. Pull requests welcome!
 ## General Performance Tools
 
 ### FOSS
+
 * [Apache JMeter](http://jmeter.apache.org/)
 * [Xdebug](http://xdebug.org/)
 * [XHProf](https://github.com/phacility/xhprof)
 
 ### Continuous Profiling Services
+
 * [AppDynamics](https://www.appdynamics.com/)
 * [New Relic](https://newrelic.com/)
 * [BlazeMeter](https://blazemeter.com/)
@@ -70,8 +70,6 @@ A list of Drupal performance resources. Pull requests welcome!
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
 
 [Which are the load testing tools that can be easy to use for a developer?](http://drupal.stackexchange.com/questions/31383/which-are-the-load-testing-tools-that-can-be-easy-to-use-for-a-developer)
-
-[How do I debug Drupal?](http://drupal.stackexchange.com/questions/545/how-do-i-debug-drupal)
 
 ---
 
