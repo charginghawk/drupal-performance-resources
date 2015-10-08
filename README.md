@@ -83,8 +83,6 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Think Quarterly: The Speed Issue](https://www.thinkwithgoogle.com/collections/the-speed-issue.html)
 
-[Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
-
 [Introducing RAIL: A User-Centric Model For Performance](http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 
 ---
