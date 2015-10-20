@@ -57,6 +57,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [Apache JMeter](http://jmeter.apache.org/)
 * [Xdebug](http://xdebug.org/)
 * [XHProf](https://github.com/phacility/xhprof)
+* [Nagios](https://www.nagios.org/)
 
 ### Continuous Profiling Services
 
