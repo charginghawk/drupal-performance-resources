@@ -87,6 +87,10 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Introducing RAIL: A User-Centric Model For Performance](http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 
+[High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
+
+[Is TLS Fast Yet? A website about tls performance optimization](https://istlsfastyet.com/)
+
 ---
 
 ## Presentations
