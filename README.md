@@ -58,6 +58,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [Xdebug](http://xdebug.org/)
 * [XHProf](https://github.com/phacility/xhprof)
 * [Nagios](https://www.nagios.org/)
+* [Sitespeed](https://www.sitespeed.io/)
 
 ### Continuous Profiling Services
 
