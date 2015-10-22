@@ -58,6 +58,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [Xdebug](http://xdebug.org/)
 * [XHProf](https://github.com/phacility/xhprof)
 * [Nagios](https://www.nagios.org/)
+* [Sitespeed](https://www.sitespeed.io/)
 
 ### Continuous Profiling Services
 
@@ -85,6 +86,10 @@ A list of Drupal performance resources. Pull requests welcome!
 [Think Quarterly: The Speed Issue](https://www.thinkwithgoogle.com/collections/the-speed-issue.html)
 
 [Introducing RAIL: A User-Centric Model For Performance](http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+
+[High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
+
+[Is TLS Fast Yet? A website about tls performance optimization](https://istlsfastyet.com/)
 
 ---
 
