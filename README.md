@@ -110,6 +110,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Making Drupal fly - The fastest Drupal ever is near!](https://events.drupal.org/losangeles2015/sessions/making-drupal-fly-fastest-drupal-ever-near)
 
+[High Performance Drupal](http://www.slideshare.net/geerlingguy/high-performance-drupal-49622952)
+
 ---
 
 ## Feeds
