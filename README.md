@@ -4,6 +4,30 @@ A list of Drupal performance resources. Pull requests welcome!
 
 ---
 
+## Table of Contents
+
+- [Drupal.org (Start Here)](#drupalorg-start-here)
+- [Checklists](#checklists)
+- [Advanced](#advanced)
+- [drupal.stackexchange.com](#drupalstackexchangecom)
+- [General Performance Tools](#general-performance-tools)
+  - [FOSS](#foss)
+  - [Continuous Profiling Services](#continuous-profiling-services)
+  - [Discussions and Comparisons](#discussions-and-comparisons)
+- [General Performance Theory](#general-performance-theory)
+- [Presentations](#presentations)
+- [Feeds](#feeds)
+- [Distributions](#distributions)
+- [Modules](#modules)
+  - [CDN integration](#cdn-integration)
+  - [Key-value stores](#key-value-stores)
+  - [Front end caching](#front-end-caching)
+  - [Back end caching](#back-end-caching)
+  - [Auditing](#auditing)
+  - [Other optimizations](#other-optimizations)
+
+---
+
 ## Drupal.org (Start Here)
 
 [Optimizing Drupal to load faster (Server, MySQL, caching, theming, HTML)](https://www.drupal.org/node/1722250)
@@ -67,7 +91,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [BlazeMeter](https://blazemeter.com/)
 * [Blitz](https://www.blitz.io/)
 
-### Discussions & Comparisons
+### Discussions and Comparisons
 
 [Benchmarking and profiling Drupal](https://www.drupal.org/profiling)
 
