@@ -90,6 +90,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [New Relic](https://newrelic.com/)
 * [BlazeMeter](https://blazemeter.com/)
 * [Loader.io](https://www.loader.io/)
+* [Blitz](https://www.blitz.io/)
 
 ### Discussions and Comparisons
 
