@@ -52,7 +52,7 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [O'Reilly's "High Performance Drupal: Fast and Scalable Designs" - free preview of 1st chapter](http://chimera.labs.oreilly.com/books/1230000000845/ch01.html)
 
-[Drupal 7 performance related patches & replacements for core functionally](https://groups.drupal.org/node/210683)
+[Drupal 7 performance related patches & replacements for core functionality](https://groups.drupal.org/node/210683)
 
 [Use Grunt and AdvAgg to inline critical CSS on a Drupal 7 theme](http://fourword.fourkitchens.com/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme)
 
@@ -70,7 +70,7 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [Given that db_select is much slower than db_query, why would I want to use it?](http://drupal.stackexchange.com/questions/1200/given-that-db-select-is-much-slower-than-db-query-why-would-i-want-to-use-it)
 
-[Nginx vs Apache - Are there any actual usage comparisons and statistcs out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
+[Nginx vs Apache - Are there any actual usage comparisons and statistics out there?](http://drupal.stackexchange.com/questions/71610/nginx-vs-apache-are-there-any-actual-usage-comparisons-and-statistcs-out-there)
 
 ---
 
@@ -89,7 +89,7 @@ A list of Drupal performance resources. Pull requests welcome!
 * [AppDynamics](https://www.appdynamics.com/)
 * [New Relic](https://newrelic.com/)
 * [BlazeMeter](https://blazemeter.com/)
-* [Blitz](https://www.blitz.io/)
+* [Loader.io](https://www.loader.io/)
 
 ### Discussions and Comparisons
 
