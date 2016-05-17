@@ -90,7 +90,6 @@ A list of Drupal performance resources. Pull requests welcome!
 * [New Relic](https://newrelic.com/)
 * [BlazeMeter](https://blazemeter.com/)
 * [Loader.io](https://www.loader.io/)
-* [Blitz](https://www.blitz.io/)
 
 ### Discussions and Comparisons
 
@@ -104,6 +103,8 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
 
+[Premature Optimization (is the root of all evil)](http://c2.com/cgi/wiki?PrematureOptimization)
+
 [The Vanilla Web Diet](http://www.smashingmagazine.com/2012/11/the-vanilla-web-diet/)
 
 [Fixing Performance in the Web Stack](http://ponyfoo.com/articles/fixing-web-performance)
@@ -114,7 +115,7 @@ A list of Drupal performance resources. Pull requests welcome!
 
 [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 
-[Is TLS Fast Yet? A website about tls performance optimization](https://istlsfastyet.com/)
+[Is TLS Fast Yet?](https://istlsfastyet.com/)
 
 ---
 
